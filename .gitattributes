@@ -1,0 +1,2 @@
+# Preserve the exact dataset and output bytes used by SHA256 verification.
+* -text

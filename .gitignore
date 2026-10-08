@@ -1,0 +1,14 @@
+assets/
+results/bert_best/
+results/*.kv
+__pycache__/
+.venv/
+tmp/
+.DS_Store
+benchmark_cpu.py
+实验报告_修正版.pdf
+实验报告_完整版.pdf
+nyt.csv
+ag.csv
+results/
+提交清单.json
